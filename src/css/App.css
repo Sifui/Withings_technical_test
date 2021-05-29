@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.Wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin: 2% auto;
+  padding: 1%;
+  border-radius: 20px;
+}
